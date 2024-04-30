@@ -116,7 +116,7 @@ const HomePage = () => {
     {/* banner image */}
     <div className='banner-card'>
     <img
-      src="/images/b12.jpg"
+      src="/b12.jpg"
       className="banner-img"
       alt="bannerimage"
       width={"100%"}
